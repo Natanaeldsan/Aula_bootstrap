@@ -1,0 +1,16 @@
+
+.navbar {
+    background-color: red;
+}
+.quem-somos{
+    background-color: aqua;
+    color: black;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.servicos{
+    background-color: rgba(189, 189, 189, 0.493);
+    color: Black;
+}
